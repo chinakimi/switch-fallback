@@ -1,0 +1,10 @@
+{
+  "enable": 1,
+  "primary": "http://test.tv:90",
+  "fallback": [
+    "http://test1.tv:90",
+    "http://test2.tv:90",
+    "http://test3.com:90"
+  ],
+  "last_updated": "2025-08-01"
+}
